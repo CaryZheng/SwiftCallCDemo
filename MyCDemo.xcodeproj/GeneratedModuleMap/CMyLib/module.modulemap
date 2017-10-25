@@ -1,0 +1,4 @@
+module CMyLib {
+    umbrella "/Users/Cary/Documents/Swift/Project/MyCDemo/.build/checkouts/CDemo.git--8667440451954242011/Sources/CMyLib/include"
+    export *
+}

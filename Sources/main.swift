@@ -1,0 +1,3 @@
+import MyLib
+
+MyLib().myTest()

@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MyLib",
+        "repositoryURL": "https://github.com/CaryZheng/CDemo.git",
+        "state": {
+          "branch": null,
+          "revision": "afa136a24fe97b39b8a790a87b5a49eabca34a62",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
